@@ -64,3 +64,14 @@
    }
 
    /*fine tabella*/
+
+   h2{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #7F7F7F;
+   }
+
+   .spazio{
+    display: block;
+   }

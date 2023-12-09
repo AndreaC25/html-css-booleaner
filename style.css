@@ -18,8 +18,18 @@
    }
 
    .descrizione{
+    
     color: #797979;
    }
 
   
    /*fine header*/
+
+   /*modifica immagini*/
+ 
+   figure{
+        margin-left: 10px;
+        margin-top: 20px;
+   }
+
+   

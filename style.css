@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+/*header*/
+
+#logo{
+    width: 6%;
+    height: auto;
+    padding: 10px;
+    margin-top: 20px;
+   }
+
+   a{
+    color: #19A6E4;
+   }
+
+   .descrizione{
+    color: #797979;
+   }
+
+  
+   /*fine header*/

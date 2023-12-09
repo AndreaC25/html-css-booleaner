@@ -4,7 +4,21 @@
     
 }
 
-/*header*/
+/*nav*/
+
+nav{
+    background-position: 400%;
+    margin-top: 0;
+    background-image: url(img/pattern.png);
+    background-color: #20A9E5;
+
+}
+/*fine nav*/
+
+/*header*/ 
+header{
+    margin-left: 10px;
+}
 
 #logo{
     width: 6%;
@@ -48,8 +62,10 @@
 
    /*Inizio tabella*/
    section{
+    
     margin-left: 10px;
     margin-top: 30px;
+    text-align: left;
    }
 
 

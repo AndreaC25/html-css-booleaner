@@ -65,6 +65,8 @@
 
    /*fine tabella*/
 
+
+   /*Sezione interessi*/
    h2{
     width: 300px;
     margin-top: 20px;
@@ -75,3 +77,5 @@
    .spazio{
     display: block;
    }
+
+   /*fine sezione interessi*/
